@@ -1,11 +1,14 @@
 *{
     margin: 0;
     padding: 0;
+  
 }
 .slider{
     display: flex;
    justify-content:space-around;
    align-items: center;
+   height: 100vh;
+   background-color: #a2d1e7;
 }
 .slider-img img{
     width: 500px;
@@ -19,5 +22,6 @@
 .slider-contant{
  text-align: center;
  font-size: 25px;
+ color: rgb(0, 0, 0);
 
 }
