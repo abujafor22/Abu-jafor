@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.slider{
+    display: flex;
+   justify-content:space-around;
+   align-items: center;
+}
+.slider-img img{
+    width: 500px;
+    height: 500px;
+    margin: 100px;
+    border: 20px solid rgb(0, 132, 255);
+    border-left: none;
+    border-radius: 60%;
+   
+}
+.slider-contant{
+ text-align: center;
+ font-size: 25px;
+
+}
